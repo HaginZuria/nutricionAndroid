@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+
+</items>

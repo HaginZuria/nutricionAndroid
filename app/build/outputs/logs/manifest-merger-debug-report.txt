@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:12:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#net.sgoliver.android.rest.MainActivity
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:18:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\1af3944eca1f7bba1e28e61797be1aca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\76c5772169017b7852ab17393b5481c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\67008bfab71cf00a21a2f19ff79dc14a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:27:13-51
