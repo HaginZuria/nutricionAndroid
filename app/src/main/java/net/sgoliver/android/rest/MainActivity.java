@@ -7,6 +7,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.app.Activity;
@@ -26,6 +27,8 @@ public class MainActivity extends Activity {
 	//private Button btnEliminar;
 	//private Button btnObtener;
 	//private Button btnListar;
+
+    //Intent intent = new Intent(this, NavigationDrawerActivity.class);
 	
 	private EditText txtUsuario;
 	private EditText txtPassword;
@@ -62,7 +65,8 @@ public class MainActivity extends Activity {
 						txtPassword.getText().toString());
 			}
 		});
-        
+
+
         /*btnActualizar.setOnClickListener(new OnClickListener() {
 			
 			@Override
@@ -103,7 +107,18 @@ public class MainActivity extends Activity {
 		});*/
 	}
 
-	@Override
+    public void launchSecondActivity() {
+        //Log.d(LOG_TAG, "Button clicked!");
+
+        Intent intent = new Intent(this, NavigationDrawerActivity.class);
+        //String message = mMessageEditText.getText().toString();
+
+        //intent.putExtra(EXTRA_MESSAGE, message);
+        startActivity(intent);
+    }
+
+
+    @Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
@@ -218,6 +233,8 @@ public class MainActivity extends Activity {
 	    	if (result)
 	    	{
 	    		lblResultado.setText("" + email + "-" + password + "-" + foto);
+                launchSecondActivity();
+
 	    	}
 	    	else{
 				lblResultado.setText("Inicio de sesión fallido " + id + " " + id2);

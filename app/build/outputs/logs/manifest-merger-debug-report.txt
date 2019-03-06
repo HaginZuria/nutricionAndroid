@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d58939ca30bcbe70dfe2424ea264d66c\AndroidManifest.xml:17:1-28:12
@@ -13,9 +13,9 @@ MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\hagin\.gradle
 MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\0a8eb76d075adaf67b7843a30e61f7fe\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\e02ae5b18bdbcddae16265e7c461d052\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\bd649e12530cdf03402e16b3d1bdaa99\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml
@@ -81,7 +81,7 @@ ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\And
 	android:name
 		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:14:22-77
 application
-ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:16:5-33:19
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:16:5-34:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\21a4163f9dcaa8b835a45f68bbc6f521\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\hagin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\302b8a23e56bff55b46b85b8e6d3c79e\AndroidManifest.xml:22:5-26:19
@@ -125,7 +125,9 @@ ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\And
 	android:name
 		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:27:27-74
 activity#net.sgoliver.android.rest.NavigationDrawerActivity
-ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:30:9-32:81
+ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:30:9-33:67
+	android:parentActivityName
+		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:33:13-55
 	android:label
 		ADDED from C:\Users\hagin\Desktop\DSIWeb\android-ws-rest-master\app\src\main\AndroidManifest.xml:32:13-69
 	android:name
